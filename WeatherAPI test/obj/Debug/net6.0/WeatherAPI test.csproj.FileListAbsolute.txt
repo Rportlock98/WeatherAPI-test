@@ -1,0 +1,17 @@
+D:\VS Projects\WeatherAPI test\WeatherAPI test\bin\Debug\net6.0\WeatherAPI test.exe
+D:\VS Projects\WeatherAPI test\WeatherAPI test\bin\Debug\net6.0\WeatherAPI test.deps.json
+D:\VS Projects\WeatherAPI test\WeatherAPI test\bin\Debug\net6.0\WeatherAPI test.runtimeconfig.json
+D:\VS Projects\WeatherAPI test\WeatherAPI test\bin\Debug\net6.0\WeatherAPI test.dll
+D:\VS Projects\WeatherAPI test\WeatherAPI test\bin\Debug\net6.0\WeatherAPI test.pdb
+D:\VS Projects\WeatherAPI test\WeatherAPI test\obj\Debug\net6.0\WeatherAPI test.csproj.AssemblyReference.cache
+D:\VS Projects\WeatherAPI test\WeatherAPI test\obj\Debug\net6.0\WeatherAPI test.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Projects\WeatherAPI test\WeatherAPI test\obj\Debug\net6.0\WeatherAPI test.AssemblyInfoInputs.cache
+D:\VS Projects\WeatherAPI test\WeatherAPI test\obj\Debug\net6.0\WeatherAPI test.AssemblyInfo.cs
+D:\VS Projects\WeatherAPI test\WeatherAPI test\obj\Debug\net6.0\WeatherAPI test.csproj.CoreCompileInputs.cache
+D:\VS Projects\WeatherAPI test\WeatherAPI test\obj\Debug\net6.0\WeatherAPI test.dll
+D:\VS Projects\WeatherAPI test\WeatherAPI test\obj\Debug\net6.0\refint\WeatherAPI test.dll
+D:\VS Projects\WeatherAPI test\WeatherAPI test\obj\Debug\net6.0\WeatherAPI test.pdb
+D:\VS Projects\WeatherAPI test\WeatherAPI test\obj\Debug\net6.0\WeatherAPI test.genruntimeconfig.cache
+D:\VS Projects\WeatherAPI test\WeatherAPI test\obj\Debug\net6.0\ref\WeatherAPI test.dll
+D:\VS Projects\WeatherAPI test\WeatherAPI test\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\VS Projects\WeatherAPI test\WeatherAPI test\obj\Debug\net6.0\WeatherAPI test.csproj.CopyComplete
